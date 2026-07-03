@@ -99,8 +99,5 @@ python ".\skills\reverse-flow\scripts\report_from_triage.py" ".\work\sample-audi
 
 MIT License
 
-可以的话可以赞赏一下吗喵
-
-<img width="1456" height="1080" alt="download" src="https://github.com/user-attachments/assets/6d69d203-0e65-4817-9386-14e2131aacfd" />
 
 
