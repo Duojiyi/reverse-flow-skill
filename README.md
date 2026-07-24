@@ -109,6 +109,9 @@ python ".\skills\reverse-flow\scripts\report_from_triage.py" ".\work\sample-audi
 - <闲聊技术交流吹水群聊> https://t.me/zxwnaisui
 
 
+## 赞助和打赏喵
+ -爱发电 https://ifdian.net/a/zxwn520
+
 
 
 MIT License
